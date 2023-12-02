@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/viet/Desktop/env/mlruns/489022706431852524/19ea87ff47334ce482404e9f72992d75/artifacts
+end_time: 1701445291680
+entry_point_name: ''
+experiment_id: '489022706431852524'
+lifecycle_stage: active
+run_id: 19ea87ff47334ce482404e9f72992d75
+run_name: abundant-gnu-210
+run_uuid: 19ea87ff47334ce482404e9f72992d75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701445284544
+status: 3
+tags: []
+user_id: viet

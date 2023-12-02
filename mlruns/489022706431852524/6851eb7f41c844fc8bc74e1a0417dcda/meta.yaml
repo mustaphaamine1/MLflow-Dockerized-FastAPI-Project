@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/viet/Desktop/env/mlruns/489022706431852524/6851eb7f41c844fc8bc74e1a0417dcda/artifacts
+end_time: 1701445298326
+entry_point_name: ''
+experiment_id: '489022706431852524'
+lifecycle_stage: active
+run_id: 6851eb7f41c844fc8bc74e1a0417dcda
+run_name: welcoming-ram-606
+run_uuid: 6851eb7f41c844fc8bc74e1a0417dcda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701445291723
+status: 3
+tags: []
+user_id: viet

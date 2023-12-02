@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/viet/Desktop/env/mlruns/489022706431852524/5e6eff70ee23497f98aab6759bf10848/artifacts
+end_time: 1701445312905
+entry_point_name: ''
+experiment_id: '489022706431852524'
+lifecycle_stage: active
+run_id: 5e6eff70ee23497f98aab6759bf10848
+run_name: capable-finch-191
+run_uuid: 5e6eff70ee23497f98aab6759bf10848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701445298379
+status: 3
+tags: []
+user_id: viet

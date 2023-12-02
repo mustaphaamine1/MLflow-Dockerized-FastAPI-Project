@@ -1,0 +1,7 @@
+fastapi
+mlflow
+pandas
+scikit-learn
+uvicorn
+onnx
+onnxruntime
